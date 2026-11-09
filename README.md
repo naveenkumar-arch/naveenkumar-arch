@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-five-rouge-12.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)]((https://nk-portfolio-hub.netlify.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-k-700b802b9/)
 [![GitHub Streak](https://img.shields.io/badge/Contributions-700%2B_Yearly-00EA64?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naveenkumar-arch)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nv01110612@gmail.com)
